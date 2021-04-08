@@ -2,9 +2,9 @@
 
 Welcome to **aloptrbl** Github profile.
 
-- 🔭 I’m amateur developer @ Wahdah.my.
-- 🌱 I’m currently converting Xamarin to Kotlin codebase.
-- 👯 I’m looking to collaborate on JS, PHP, Kotlin & C# project.
+- 🔭 I’m senior developer @ Wahdah.my.
+- 🌱 I’m currently learning Blockchain technology.
+- 👯 I’m looking to collaborate on JS, PHP, Kotlin & SwiftUI project.
 - 💬 Ask me about anything at twitter. Mention me @aloptrbl
 - 📫 How to reach me: mohamadzulhilmiazaha@gmail.com
 
