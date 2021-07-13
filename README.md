@@ -8,6 +8,7 @@ Welcome to **aloptrbl** Github profile.
 - 💬 Ask me about anything at twitter. Mention me @aloptrbl
 - 📫 How to reach me: mohamadzulhilmiazaha@gmail.com
 
-![Aloptrbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloptrbl&show_icons=true)
+![Aloptrbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloptrbl&show_icons=true&theme=radical)
+
 
 
