@@ -2,7 +2,7 @@
 
 Welcome to **aloptrbl** Github profile.
 
-- 🔭 I’m mobile developer @ Tourplus.
+- 🔭 I’m mobile developer
 - 🌱 I’m currently learning Blockchain technology.
 - 👯 I’m looking to collaborate on JS, PHP, Kotlin & SwiftUI project.
 - 💬 Ask me about anything at twitter. Mention me @aloptrbl
