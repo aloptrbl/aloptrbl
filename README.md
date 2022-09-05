@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/swift-00599C?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/swiftui-007396?style=for-the-badge&logo=swiftui&logoColor=white"> 
+<img src="https://img.shields.io/badge/react-native-007396?style=for-the-badge&logo=react-native&logoColor=white"> 
 <br>
 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
