@@ -3,7 +3,9 @@
 <div align=center>
 
 ## 👩🏻‍💻 App Developer / Engineer
+<br>
 <img src="https://komarev.com/ghpvc/?username=aloptrbl&label=Profile%20views&color=0e75b6&style=flat" alt="aloptrbl" />
+<br>
 ### 🛠 Stack 🛠
 
 <img src="https://img.shields.io/badge/kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white">
